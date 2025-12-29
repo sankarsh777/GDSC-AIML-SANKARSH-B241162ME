@@ -27,4 +27,32 @@ Building and evaluating a regression model to predict exam scores using simple f
 Exploratory Data Analysis to uncover legendary trends like whether more sleep actually beats all-nighters, and if extra study hours can compensate for chronic sleep deprivation.
 Ensuring the model performs reasonably well (good R² or MAE).
 
+question 4 - intermediate: Using the MNIST dataset implement a digit classification pipeline using any ML framework (pyTorch / Tensorflow / Sci-kit learn etc)
+Deliverable(s):
+Implement a pipeline that takes as input an image of a digit (in whatever format you deem fit) and outputs the numerical digit as text.
+
+question 5 - beginner: Make Kattangal’s Grocery store Profitable using Apriori Algorithm and Clustering of Customers to help the shop owner in making Business decisions and better promotion strategies. Example: If an NITian wants to buy a packet of Maggi, then the algorithm would suggest to group packets of maggi with Masala Chips to increase the sales.
+
+Reference(s): Grocery Store Dataset
+Deliverable(s):
+Perform Market Basket Analysis.
+Do EDA; including Graphs, Heatmaps, Box plots etc.
+Answer the following questions :
+What are the most frequently sold items?
+What are the most important items that should always be in the store?
+
+question 6 - beginner: Make the micro-grad engine and demonstrate its ability to calculate gradients to perform backpropagation on the fly.
+Deliverable(s):
+Implement the micro-grad engine.
+Make basic neural networks to demonstrate the correctness of your implementation. 
+
+question 7 - advanced: Read this Research paper and understand exactly how a transformer works. Make a diagram (using a pen and paper) of how control flows through GPT-2 (a decoder only transformer) when it processes tokens. Implement Multihead attention and positional encodings as independent functional modules. 
+Deliverable(s):
+Control flow diagram.
+Module for Multihead attention.
+Module for Positional encodings.
+
+
+
+
 
