@@ -1,6 +1,9 @@
 # GDSC-AIML-SANKARSH-B241162ME
 GDSC AIML INDUCTIONS CODE
 done (in order of completion)
+
+
+
 question 1 - beginner : Will I get placed?
 Using this Placement Dataset predict whether a student will be placed or not using any ML algorithm of your choice.
 Deliverable(s):
